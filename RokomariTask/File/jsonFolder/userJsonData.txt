@@ -1,0 +1,23 @@
+{
+"userJsonData":
+[
+{ 
+  "id":"1",
+  "userName": "imran",
+  "password":"12345",
+  "balance":"300"
+},
+{ 
+  "id":"2",
+  "userName": "babu",
+  "password":"12345",
+  "balance":"800"
+},
+{ 
+  "id":"3",
+  "userName":"hossain",
+  "password":"888",
+  "balance":"50"
+}
+]
+}

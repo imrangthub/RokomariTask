@@ -1,0 +1,20 @@
+{
+"bookJsonData":
+[
+{ 
+  "id":"1",
+  "bookName": "Java",
+  "price":"120"
+},
+{ 
+  "id":"2",
+  "bookName": "C",
+  "price":"50"
+},
+{ 
+  "id":"3",
+  "bookName":"php",
+  "price":"888"
+}
+]
+}
